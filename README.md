@@ -1,2 +1,2 @@
-hackday01-kippt
+HackDay #01 (Node Email Server)
 ===============
