@@ -2,7 +2,8 @@
   "name": "hackday01-kippt",
   "version": "0.0.1",
   "dependencies": {
-    "express": "2.5.x"
+    "express": "2.5.x",
+    "node-kipt": "0.0.4"
   },
   "engines": {
     "node": "0.8.x",
