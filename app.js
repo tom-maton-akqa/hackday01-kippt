@@ -1,12 +1,22 @@
-var express = require('express');
+var nodemailer = require("nodemailer");
 
-var app = express.createServer(express.logger());
-
-app.get('/', function(request, response) {
-  response.send('Hello World!');
+var smtpTransport = nodemailer.createTransport("SMTP",{
+   service: "Gmail",
+   auth: {
+       user: "owain.llew@gmail.com",
+       pass: "7321SK8on7321-"
+   }
 });
 
-var port = process.env.PORT || 5000;
-app.listen(port, function() {
-  console.log("Listening on " + port);
+smtpTransport.sendMail({
+   from: "AKQA <me@example.com>", // sender address
+   to: "<dennis.odell@akqa.com>, <abid.din@akqa.com>, <owain.llew@gmail.com>", // comma separated list of receivers
+   subject: "Node SMTP Server", // Subject line
+   text: "If you guys are receieving this then I have successfully created a node SMTP Server! :)" // plaintext body
+}, function(error, response){
+   if(error){
+       console.log(error);
+   }else{
+       console.log("Message sent: " + response.message);
+   }
 });
