@@ -1,5 +1,4 @@
-# HackDay #01 (Node Email Server)
-=============================================
+# HackDay #01 - Node, Kippt API & Heroku Mashup
 
 ### Introduction
 
