@@ -39,16 +39,16 @@ If we have capacity we could also publish a web page version or pull them in to 
 * JS
 * Node
 
-## Related Documentation
-
-### [New Kippt API Documentation](http://developers.kippt.com/)
-
 ### Installation
 To get the required dependencies for the hack day project simply run:
 
 ```
 npm install
 ```
+
+## Related Documentation
+
+### [New Kippt API Documentation](http://developers.kippt.com/)
 
 ## Platform
 
