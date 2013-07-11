@@ -50,12 +50,10 @@ MailParser is an asynchronous and non-blocking parser for node.js to parse mime 
 ### [Mandrill](https://github.com/kai5263499/mandrill-node)
 mandrill-node is a node.js module for interfacing with MailChimp's Mandrill API
 
-[Documentation](https://www.heroku.com/)
+[Documentation](https://addons.heroku.com/mandrill)
 
 ### [Node - Kippt](https://npmjs.org/package/node-kippt)
 A wrapper for the kippt.com API
-
-[Documentation](https://www.heroku.com/)
 
 ### [Mocha](http://visionmedia.github.io/mocha/)
 Javascript Unit testing framework
