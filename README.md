@@ -77,6 +77,3 @@ Hack Day Kippt Repo (https://github.com/owain-llewellyn-akqa/hackday01-kippt)
 ### [Sass](http://sass-lang.com/)
 Sass makes CSS fun again. Sass is an extension of CSS3, adding nested rules, variables, mixins,selector inheritance, and more. It’s translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 
-
-### Date/Location
-AKQA, St Johns - St Johns Large Meeting room (10am - 6pm)
