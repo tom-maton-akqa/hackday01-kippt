@@ -45,6 +45,10 @@ To get the required dependencies for the hack day project simply run:
 ```
 npm install
 ```
+For windows users you may need to do the following:
+* Install python 2.7.5 – this is for the mailparser dependency, don’t install the latest. Its not compatible and will break the npm install.
+* In your environment variables add to the Path variable, the path to your Python installation C:\Python27
+* Then run npm install, if you’ve already run this, just uninstall it (npm uninstall mailparser) and install again.
 
 ## Related Documentation
 
