@@ -6,29 +6,36 @@
 We currently share many resources within the Web Development team, either through Email or other means.
 There are potentially better ways to do this, such as making use of social bookmarking services like Kippt, Delicious or Pocket.
 During the first AKQA Hack Day we'd like to attempt to create an internal link-sharing service leveraging the Kippt API. The idea is to contribute to the AKQA Web Development list internally, then build a service that can aggregate and mail the links out on a weekly basis.
+
+
 There are future plans to build a standalone page to showcase these links, or pull them in to the AKQA Dev Blog.
-Confirmed Attendees
 
-Abid Din
-Owain Llewellyn
-Andrew Smith
-Den O'dell
-Tom Maton
-Robin Weston
-Scott van Looy (provided he can find a flight)
-Nacho Gil
-Christopher Marsh
-Martin Shaw
-Tentative Attendees (depending on date)
 
-James Lelyveld
-Tech Stack
+### Confirmed Attendees
 
-HTML5
-CSS3
-JS
-Node
-Related Documentation
+* Abid Din
+* Owain Llewellyn
+* Andrew Smith
+* Den O'dell
+* Tom Maton
+* Robin Weston
+* Scott van Looy (provided he can find a flight)
+* Nacho Gil
+* Christopher Marsh
+* Martin Shaw
+
+#### Tentative Attendees (depending on date)
+
+* James Lelyveld
+
+## Tech Stack
+
+* HTML5
+* CSS3
+* JS
+* Node
+
+## Related Documentation
 
 ### [New Kippt API Documentation](http://developers.kippt.com/)
 
@@ -37,6 +44,8 @@ Related Documentation
 ### [Heroku](https://www.heroku.com/)
 Agile deployment for Ruby, Node.js, Clojure, Java, Python, and Scala. Get up and running in minutes, and deploy instantly with git. Focus 100% on your code, and never think about servers, instances, or VMs again.
 Libraries
+
+## Libraries
 
 ### [Express JS](http://expressjs.com/)
 Express is a minimal and flexible node.js web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
