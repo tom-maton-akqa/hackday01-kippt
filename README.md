@@ -5,7 +5,13 @@
 
 We currently share many resources within the Web Development team, either through Email or other means.
 There are potentially better ways to do this, such as making use of social bookmarking services like Kippt, Delicious or Pocket.
-During the first AKQA Hack Day we'd like to attempt to create an internal link-sharing service leveraging the Kippt API. The idea is to contribute to the AKQA Web Development list internally, then build a service that can aggregate and mail the links out on a weekly basis.
+During the first AKQA Hack Day we'd like to attempt to create an internal link-sharing service leveraging the Kippt API. The idea is to contribute to the AKQA Web Development list internally, then build a service that can aggregate and mail the links out on a weekly basis with the eNewsletter grouping togeather content by hastags. e.g #javascript, #java, #css3 etc.
+
+## The Task
+Create a Node.js Application which sits on Heroku. The application spins up once a week, collects the latest content from our [AKQA Development List](https://kippt.com/AKQA/akqa-web-development) via the [Kippt API](http://developers.kippt.com/), sorts into groups, creates the eNewsletter and emails out over the SMTP server (Mandrill / Maill chimp plugin for Heroku)
+
+#### Bonus Task
+If we have capacity we could also publish a web page version and auto tweet the link out.
 
 
 There are future plans to build a standalone page to showcase these links, or pull them in to the AKQA Dev Blog.
