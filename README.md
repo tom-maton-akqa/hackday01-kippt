@@ -1,5 +1,5 @@
 # HackDay #01
-### Node, Kippt API & Heroku Mashup
+## Node, Kippt API & Heroku Mashup
 
 ### Introduction
 
