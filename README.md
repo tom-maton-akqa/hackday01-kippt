@@ -1,4 +1,7 @@
-Introduction
+# HackDay #01 (Node Email Server)
+=============================================
+
+### Introduction
 
 We currently share many resources within the Web Development team, either through Email or other means.
 There are potentially better ways to do this, such as making use of social bookmarking services like Kippt, Delicious or Pocket.
@@ -27,34 +30,46 @@ JS
 Node
 Related Documentation
 
-New Kippt API Documentation
-Platform
+### [New Kippt API Documentation](http://developers.kippt.com/)
 
-Heroku
+## Platform
+
+### [Heroku](https://www.heroku.com/)
 Agile deployment for Ruby, Node.js, Clojure, Java, Python, and Scala. Get up and running in minutes, and deploy instantly with git. Focus 100% on your code, and never think about servers, instances, or VMs again.
 Libraries
 
-Express JS
+### [Express JS](http://expressjs.com/)
 Express is a minimal and flexible node.js web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
-Simplesmtp
+
+### [Simplesmtp](https://github.com/andris9/simplesmtp)
 This is a module to easily create custom SMTP servers and clients - use SMTP as a first class protocol in Node.JS!
-MailParser
+
+### [MailParser](https://github.com/andris9/mailparser)
 MailParser is an asynchronous and non-blocking parser for node.js to parse mime encoded e-mail messages. Handles even large attachments with ease - attachments can be parsed in chunks and streamed if needed.
-Mandrill
+
+### [Mandrill](https://github.com/kai5263499/mandrill-node)
 mandrill-node is a node.js module for interfacing with MailChimp's Mandrill API
-Documentation
-Node - Kippt
+
+[Documentation](https://www.heroku.com/)
+
+### [Node - Kippt](https://npmjs.org/package/node-kippt)
 A wrapper for the kippt.com API
-Documentation
-Mocha
+
+[Documentation](https://www.heroku.com/)
+
+### [Mocha](http://visionmedia.github.io/mocha/)
 Javascript Unit testing framework
-Tools
 
-Github
+
+## Tools
+
+### [Github](https://github.com/)
 Online project hosting using Git. Includes source-code browser, in-line editing, wikis, and ticketing. Free for public open-source code.
-Hack Day Kippt Repo (https://github.com/owzzz/hackday01-kippt)
-Sass
-Sass makes CSS fun again. Sass is an extension of CSS3, adding nested rules, variables, mixins,selector inheritance, and more. It’s translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
-Date/Location
+Hack Day Kippt Repo (https://github.com/owain-llewellyn-akqa/hackday01-kippt)
 
+### [Sass](http://sass-lang.com/)
+Sass makes CSS fun again. Sass is an extension of CSS3, adding nested rules, variables, mixins,selector inheritance, and more. It’s translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
+
+
+### Date/Location
 AKQA, St Johns - St Johns Large Meeting room (10am - 6pm)
