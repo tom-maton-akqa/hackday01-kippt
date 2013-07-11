@@ -11,10 +11,8 @@ During the first AKQA Hack Day we'd like to attempt to create an internal link-s
 Create a Node.js Application which sits on Heroku. The application spins up once a week, collects the latest content from our [AKQA Development List](https://kippt.com/AKQA/akqa-web-development) via the [Kippt API](http://developers.kippt.com/), sorts into groups, creates the eNewsletter and emails out over the SMTP server (Mandrill / Maill chimp plugin for Heroku)
 
 #### Bonus Task
-If we have capacity we could also publish a web page version and auto tweet the link out.
+If we have capacity we could also publish a web page version or pull them in to the AKQA Dev Blog and auto tweet the link out.
 
-
-There are future plans to build a standalone page to showcase these links, or pull them in to the AKQA Dev Blog.
 
 
 ### Confirmed Attendees
