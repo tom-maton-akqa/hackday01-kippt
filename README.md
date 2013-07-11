@@ -70,7 +70,7 @@ MailParser is an asynchronous and non-blocking parser for node.js to parse mime 
 ### [Mandrill](https://github.com/kai5263499/mandrill-node)
 mandrill-node is a node.js module for interfacing with MailChimp's Mandrill API
 
-[Documentation](https://addons.heroku.com/mandrill)
+[Documentation](http://help.mandrill.com/forums)
 
 ### [Node - Kippt](https://npmjs.org/package/node-kippt)
 A wrapper for the kippt.com API
