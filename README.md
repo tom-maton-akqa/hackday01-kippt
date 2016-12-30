@@ -75,7 +75,7 @@ mandrill-node is a node.js module for interfacing with MailChimp's Mandrill API
 ### [Node - Kippt](https://npmjs.org/package/node-kippt)
 A wrapper for the kippt.com API
 
-### [Mocha](http://visionmedia.github.io/mocha/)
+### [Mocha](http://mochajs.org/)
 Javascript Unit testing framework
 
 
